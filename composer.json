@@ -1,5 +1,5 @@
 {
-  "name": "xblue/nganluongv3",
+  "name": "omnipay/nganluongv3",
   "type": "library",
   "description": "NganLuong gateway for Omnipay payment processing library",
   "keywords": [
